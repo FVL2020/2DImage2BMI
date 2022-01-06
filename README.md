@@ -30,4 +30,4 @@ in most cases on BMI estimation.**
 
 Our code is tested with PyTorch 1.4.0, CUDA 10.0 and Python 3.6. It may work with other versions.
 
-The code will be released after our paper received.
+## The code will be released after our paper received.
