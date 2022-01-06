@@ -1,6 +1,6 @@
 # Knowing Human Weight from A Single Image
 
- ** Body weight as one of the biometric traits has been
+ **Body weight as one of the biometric traits has been
 studied in both the forensic and medical domains. However,
 estimating weight directly from 2D images is particularly
 challenging, since the visual inspection is rather sensitive to the
