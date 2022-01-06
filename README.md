@@ -1,6 +1,6 @@
 # Knowing Human Weight from A Single Image
 
-Body weight as one of the biometric traits has been
+ ** Body weight as one of the biometric traits has been
 studied in both the forensic and medical domains. However,
 estimating weight directly from 2D images is particularly
 challenging, since the visual inspection is rather sensitive to the
@@ -22,9 +22,9 @@ females) from around 3000 subjects with the attributes including
 gender, age, height, and weight. Extensive experiments confirm
 that the proposed framework combining anthropometric features
 and deep features outperforms the single-type feature approaches
-in most cases on BMI estimation.
+in most cases on BMI estimation.**
 
-![image](https://github.com/FVL2020/2DImageBMIestimationEnd2End/blob/master/img_result/framework.jpg)
+![image](https://github.com/FVL2020/2DImage2BMI/blob/main/framework/framework.jpg)
 
 ## Install
 
