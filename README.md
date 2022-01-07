@@ -58,10 +58,12 @@ You can easily get the test result by running
 python Regression.py
 ``` 
 
-## Result
+## Results
 <div align=center>
 <img src="https://github.com/FVL2020/2DImage2BMI/blob/main/framework/result.jpg" idth="50%" height="50%"/>
 </div>
+
+
 <div align="center">
-	<img src="https://github.com/FVL2020/2DImage2BMI/blob/main/framework/result2.jpg" width="50%" height="50%"/>
+	<img src="https://github.com/FVL2020/2DImage2BMI/blob/main/framework/result2.jpg" width="80%" height="80%"/>
 </div>
