@@ -39,14 +39,15 @@ scikit-learn
 scipy
 tensorboardX
 opencv-python
+pandas
 ```
 
 We use the pretrained model in [detectron2](https://github.com/facebookresearch/detectron2), so you need to install the project following their installation instructions.
 
-# Test
+## Testing
 
 You can easily get the test result by running
 ```
 python Regression.py
-```
+``` 
 
