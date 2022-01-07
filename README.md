@@ -24,7 +24,9 @@ that the proposed framework combining anthropometric features
 and deep features outperforms the single-type feature approaches
 in most cases on BMI estimation.**
 
-![image](https://github.com/FVL2020/2DImage2BMI/blob/main/framework/framework.jpg)
+<div align=center>
+<img src="https://github.com/FVL2020/2DImage2BMI/blob/main/framework/framework.jpg">
+</div>
 
 ## Install
 
