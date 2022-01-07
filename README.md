@@ -60,6 +60,6 @@ python Regression.py
 
 ## Result
 <div align=center>
-<img src="https://github.com/FVL2020/2DImage2BMI/blob/main/framework/result.jpg", width:300px; height:auto>
+<img src="https://github.com/FVL2020/2DImage2BMI/blob/main/framework/result.jpg" width="50%"/>
 </div>
 
