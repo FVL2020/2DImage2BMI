@@ -30,4 +30,23 @@ in most cases on BMI estimation.**
 
 Our code is tested with PyTorch 1.4.0, CUDA 10.0 and Python 3.6. It may work with other versions.
 
-## The code will be released after our paper received.
+You will need to install some python dependencies.
+
+You will need to install some python dependencies(either `conda install` or `pip install`)
+
+```
+scikit-learn
+scipy
+tensorboardX
+opencv-python
+```
+
+We use the pretrained model in [detectron2](https://github.com/facebookresearch/detectron2), so you need to install the project following their installation instructions.
+
+# Test
+
+You can easily get the test result by running
+```
+python Regression.py
+```
+
