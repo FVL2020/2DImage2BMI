@@ -55,6 +55,6 @@ python Regression.py
 
 ## Result
 <div align=center>
-<img src="https://github.com/FVL2020/2DImage2BMI/blob/master/framework/result.jpg">
+<img src="https://github.com/FVL2020/2DImage2BMI/blob/main/framework/result.jpg">
 </div>
 
