@@ -67,3 +67,15 @@ python Regression.py
 <div align="center">
 	<img src="https://github.com/FVL2020/2DImage2BMI/blob/main/framework/result2.jpg" width="80%" height="80%"/>
 </div>
+
+### Reference
+If you find this project useful, we would be grateful if you cite this paper：
+```
+@article{attentionguid,
+author = {Zhi Jin, Junjia Huang, Wenjin Wang, Aolin Xiong, Xiaojun Tan},
+journal = {IEEE Transactions on Multimedia (TMM)},
+title = {Estimating Human Weight from A Single Image},
+year = {2022}
+```
+### License
+This repository is released under the MIT License as found in the LICENSE file. Code in this repo is for non-commercial use only.
